@@ -5,6 +5,7 @@ const Test = () => {
       <div>YAML 파일 추가</div>
       <div>GitHub Actions Test3</div>
       <div>GitHub Actions Test4</div>
+      <div>GitHub Actions Test5</div>
     </>
   );
 };
