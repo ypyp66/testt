@@ -6,6 +6,7 @@ const Test = () => {
       <div>GitHub Actions Test3</div>
       <div>GitHub Actions Test4</div>
       <div>GitHub Actions Test5</div>
+      <div>GitHub Actions Test6</div>
     </>
   );
 };
